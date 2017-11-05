@@ -4,6 +4,7 @@
   "description": "An ALC 2.0 project",
   "main": "app.js",
   "scripts": {
+    "start:dev": "nodemon ./bin/www",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
